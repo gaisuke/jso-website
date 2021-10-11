@@ -1,6 +1,6 @@
 import { collection, onSnapshot } from "@firebase/firestore";
 import { useEffect, useState } from "react";
-import db from "./firebase";
+import db from "../../../config/firebase/firebase";
 
 function App() {
   const [concerts, setConcerts] = useState([])
