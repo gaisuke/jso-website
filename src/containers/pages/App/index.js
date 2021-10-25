@@ -1,6 +1,7 @@
 // import { collection, onSnapshot } from "@firebase/firestore";
 // import { useEffect, useState } from "react";
 // import db from "../../../config/firebase/firebase";
+// eslint-disable-next-line
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 import Dashboard from "../Dashboard";
 import Login from "../Login";
