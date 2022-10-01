@@ -6,7 +6,9 @@
 One of the most prominent professional orchestras founded in 2009 by Stephen Tong as the Music Director, based in Aula Simfonia Jakarta. 
 
 ### Tech Stack :
-React, Tailwind, Firebase
+- React
+- Tailwind
+- Firebase
 
 ### Instructions :
 1. clone the repo
